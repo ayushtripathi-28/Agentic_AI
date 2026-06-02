@@ -1,7 +1,0 @@
-pypdf
-langchain
-sentence-transformers
-faiss-cpu
-google-generativeai
-numpy
-jupyter
