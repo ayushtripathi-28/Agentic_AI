@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ## Run Application
 
 ```bash
-python semantic_search_faiss.py
+python Mini_semantic_search_engine.py
 ```
 
 ---
