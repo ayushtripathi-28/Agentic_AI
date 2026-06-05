@@ -46,10 +46,12 @@ mini-rag-chatbot/
 ├── requirements.txt
 ├── .gitignore
 ├── sample_data/
-│   └── sample.pdf
+│   └── sample_rag_dataset.pdf
 ├── screenshots/
-│   ├── output1.png
-│   └── output2.png
+│   ├── Chunking.png
+│   |── Context.png
+│   |── Embeddings.png
+│   └── LLM_Response.png
 ```
 
 ---
